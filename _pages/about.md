@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+\[[Chen Qian's Resume]()\]
 
 BIBLIOGRAPHY
 ======
