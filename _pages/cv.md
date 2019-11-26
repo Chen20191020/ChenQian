@@ -17,10 +17,10 @@ Education
 Study program:
 ======
 * Complutense University of Madrid, June 2017-July 2017
-  * Business Game Theory Applied to Social Network. 
+  * [Business Game Theory Applied to Social Network](https://www.ucm.es/escuelacomplutense/b16) 
 
 * Complutense University of Madrid, July 2016-August 2016
-  * Mathematics Workshop. 
+  * [Mathematics Workshop](https://estudiosestadisticos.ucm.es/taller-matematico-para-alumnos-de-nuevo-ingreso-en-el-grado-de-estadistica-aplicada) 
 
 Projects
 ======
