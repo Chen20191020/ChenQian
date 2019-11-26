@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in [Statistics](https://estudiosestadisticos.ucm.es/), Complutense University of Madrid, 2016 - Present
 
-Work experience
+
+Study program:
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Complutense University of Madrid, June 2017-July 2017
+  * Business Game Theory Applied to Social Network. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Complutense University of Madrid, July 2016-August 2016
+  * Mathematics Workshop. 
+
+Projects
+======
+* An Inventory Model Application with Periodic Review for the Manufacture of Distribution Transformers
+  * The project aims at designing and fabrication of two Buckling Restrained Braces which were analyzed
+under dynamic loading. As alternative for conventional braces, these BRBs are also beneficial for seismic retro-fitting in RCC and steel structures.
+
+* Business Game Theory Applied to Social Network
+  * Presented a Seminar on Indirect Model Analysis, explaining the method to compute response of Prototype from the Influence lines obtained from Model. Use of Muller Breslau Principle in Indirect Model
+Analysis and the Similitude between prototype and model.
+
+* by using Time Series Analysis
+  * Presented a seminar on Micro Tunneling, explaining its advantages over conventional method of drainage
+laying systems. Analysis considering direct and indirect cost of micro tunneling was also discussed.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* C++, Python, MATLAB
+* R, SAS, SPSS
+* Spanish, English, Chinese
