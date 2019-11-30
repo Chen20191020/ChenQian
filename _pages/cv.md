@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+\[[Chen Qian's Resume](https:/ChenQian/files/CV.pdf)\]
+
 Education
 ======
 * B.S. in [Statistics](https://estudiosestadisticos.ucm.es/), Complutense University of Madrid, 2016 - Present
@@ -29,7 +31,7 @@ Projects
 ======
 * An Inventory Model Application with Periodic Review for the Manufacture of Distribution Transformers
   * Using R markdown to perform the estimation of the parameters for each of the distributions and
-goodness of fit contrasts bases on a project(made by Eduardo Gutierrez Gonzalez) of proposing an
+goodness of fit contrasts bases on a [project](https://www.researchgate.net/publication/317445939_An_Inventory_Model_Application_with_Periodic_Review_for_the_Manufacture_of_Distribution_Transformers)(made by Eduardo Gutierrez Gonzalez) of proposing an
 Inventory Application Model with a periodic review under the policy (R, S), where the demand is not
 constant and varies widely.
 
