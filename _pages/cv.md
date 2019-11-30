@@ -16,6 +16,9 @@ Education
 
 Study program:
 ======
+* Pompeu Fabra University, Barcelona, Spain February 2016 - June 2016
+  * [Spanish (Advanced)]](https://www.upf.edu/web/idiomesupf/spanishprogram) 
+
 * Complutense University of Madrid, June 2017-July 2017
   * [Business Game Theory Applied to Social Network](https://www.ucm.es/escuelacomplutense/b16) 
 
@@ -25,16 +28,18 @@ Study program:
 Projects
 ======
 * An Inventory Model Application with Periodic Review for the Manufacture of Distribution Transformers
-  * The project aims at designing and fabrication of two Buckling Restrained Braces which were analyzed
-under dynamic loading. As alternative for conventional braces, these BRBs are also beneficial for seismic retro-fitting in RCC and steel structures.
+  * Using R markdown to perform the estimation of the parameters for each of the distributions and
+goodness of fit contrasts bases on a project(made by Eduardo Gutierrez Gonzalez) of proposing an
+Inventory Application Model with a periodic review under the policy (R, S), where the demand is not
+constant and varies widely.
+
 
 * Business Game Theory Applied to Social Network
-  * Presented a Seminar on Indirect Model Analysis, explaining the method to compute response of Prototype from the Influence lines obtained from Model. Use of Muller Breslau Principle in Indirect Model
-Analysis and the Similitude between prototype and model.
+  * Using Fortran to analyse the topology of a network bases on the data that is the 22 soccer teams
+that participated in the World Championship in Paris, 1998 and perform a game with this network by
+calculating valor Myerson for each team.
 
-* by using Time Series Analysis
-  * Presented a seminar on Micro Tunneling, explaining its advantages over conventional method of drainage
-laying systems. Analysis considering direct and indirect cost of micro tunneling was also discussed.
+
 
 
 Skills
