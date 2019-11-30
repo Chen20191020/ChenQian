@@ -9,7 +9,7 @@ redirect_from:
 ---
 ABOUT ME
 ======
-\[[Chen Qian's Resume](https://github.com/Chen20191020/ChenQian.github.io/files/CV.pdf)\]
+\[[Chen Qian's Resume](https:/ChenQian/files/CV.pdf)\]
 
 BIBLIOGRAPHY
 ======
