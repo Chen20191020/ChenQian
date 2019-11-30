@@ -17,7 +17,7 @@ Education
 Study program:
 ======
 * Pompeu Fabra University, Barcelona, Spain February 2016 - June 2016
-  * [Spanish (Advanced)]](https://www.upf.edu/web/idiomesupf/spanishprogram) 
+  * [Spanish (Advanced)](https://www.upf.edu/web/idiomesupf/spanishprogram) 
 
 * Complutense University of Madrid, June 2017-July 2017
   * [Business Game Theory Applied to Social Network](https://www.ucm.es/escuelacomplutense/b16) 
