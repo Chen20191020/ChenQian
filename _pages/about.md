@@ -31,4 +31,6 @@ I've also spent time at
 
 CURRENT PROJECTS
 ======
-* by using time series analysis
+* Time Series Analysis with R which is I am working on it as my dissertation.
+Finding the best and the most appropriate, generally speaking, ARIMA(p,d,q)(P,D,Q)
+model for several database obtained from CompEngine with diagnosis and adjusting.
