@@ -13,7 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in [Statistics](https://estudiosestadisticos.ucm.es/), Complutense University of Madrid, 2016 - Present
+* M.S. in [Statistics](https://statistics.ucdavis.edu/), University of California, Davis, 2021 - 2023(EXPECTED)
+* B.S. in [Statistics](https://estudiosestadisticos.ucm.es/), Complutense University of Madrid, 2016 - 2020
 
 
 Study program:
