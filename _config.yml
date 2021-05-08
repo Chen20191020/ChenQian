@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chen Qian"
   avatar           : "myfoto.png"
-  bio              : "Stats at UCM"
-  location         : "Madrid"
+  bio              : "Stats at UCD"
+  location         : "Davis, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "chenqian@ucm.es"
+  email            : "mrcqian@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
