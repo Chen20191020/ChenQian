@@ -13,7 +13,7 @@ ABOUT ME
 
 BIBLIOGRAPHY
 ======
-Hello, I am a forth-year student in Applied Statistics at [Complutense University of Madrid](https://www.ucm.es/english), where I am fortunate to work with [Enrique Gonzalez Aranguena](https://scholar.google.es/citations?user=dQ10NgMAAAAJ&hl=es) on time series. *I am actively applying for M.S programs in Statistics, Data science and machine learning for Fall 2020.*
+Hello, I am a graduate in Applied Statistics at [Complutense University of Madrid](https://www.ucm.es/english)(graduated in 2020), where I am fortunate to work with [Enrique Gonzalez Aranguena](https://scholar.google.es/citations?user=dQ10NgMAAAAJ&hl=es) on time series. *I will start my M.S programs in Statistics at [University of California, Davis](https://www.ucdavis.edu/) in Fall 2021.*
 
 Overall, my research interest includes but not limited to:
 *  Time series
@@ -29,7 +29,9 @@ I've also spent time at
 
 * Summer school at Complutense University of Madrid. (working with [Maria Isabel Riomoros Callejo](https://scholar.google.es/citations?user=LXduvVYAAAAJ&hl=es) on Mathematics Workshop)
 
-CURRENT PROJECTS
+* Working at MPMF(A game technology company) in WuHan, China as data  Analyst. (working with ChengJun Zhang on building A/B test and regression model for optimizing game products)
+
+PROJECTS
 ======
 * Time Series Analysis with R which is I am working on it as my dissertation.
 Finding the best and the most appropriate, generally speaking, ARIMA(p,d,q)(P,D,Q)
