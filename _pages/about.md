@@ -13,23 +13,24 @@ ABOUT ME
 
 BIBLIOGRAPHY
 ======
-Hello, I am a graduate in Applied Statistics at [Complutense University of Madrid](https://www.ucm.es/english)(graduated in 2020), where I am fortunate to work with [Enrique Gonzalez Aranguena](https://scholar.google.es/citations?user=dQ10NgMAAAAJ&hl=es) on time series. *I will start my M.S programs in Statistics at [University of California, Davis](https://www.ucdavis.edu/) in Fall 2021.*
-
-Overall, my research interest includes but not limited to:
-*  Time series
-*  Probability
-*  Computational Statistics
-*  Regression Analysis
+Hi, I am actively applying for doctoral programs in Statistics, Data science, and Computational Science & Engineering for Fall 2023. Overall, my research interest includes but not limited to:
+*  Time series Analysis
+*  Machine Learning(RNN, LSTM), Deep Learning
 *  Stochastic Process
-*  Machine Learning, Deep Learning
+*  Computational Statistics
+
+I am a graduate in Applied Statistics at [Complutense University of Madrid](https://www.ucm.es/english)(graduated in 2020), where I am fortunate to work with [Enrique Gonzalez Aranguena](https://scholar.google.es/citations?user=dQ10NgMAAAAJ&hl=es) on Time Series. *I will finish my M.S programs in Statistics at [University of California, Davis](https://www.ucdavis.edu/) in Spring 2023.*
 
 
 I've also spent time at 
+
+* Graduate independent Researcher.(working with [Xiucai Ding](https://xcding1212.github.io) on Non-stationary Time Series).
+
 * Summer school at Complutense University of Madrid.(working with [Daniel Gomez Gonzalez](https://www.ucm.es/estadisticaycienciadatos/daniel-gomez-gonzalez-1) and [Conrado Miguel Manuel Garcia](http://worldcat.org/identities/np-manuel%20garcia,%20conrado%20miguel/) on Business Game Theory)
 
 * Summer school at Complutense University of Madrid. (working with [Maria Isabel Riomoros Callejo](https://scholar.google.es/citations?user=LXduvVYAAAAJ&hl=es) on Mathematics Workshop)
 
-* Working at MPMF(A game technology company) in WuHan, China as data  Analyst. (working with ChengJun Zhang on building A/B test and regression model for optimizing game products)
+* Working at MPMF(A game technology company) in WuHan, China as data  Analyst. (working with [ChengJun Zhang](https://www.linkedin.com/in/chengjun-zhang-b3a450216/?trk=people-guest_people_search-card) on building A/B test and regression model for optimizing game products)
 
 PROJECTS
 ======
