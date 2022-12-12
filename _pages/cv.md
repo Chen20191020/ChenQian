@@ -28,7 +28,7 @@ Study program:
 * Complutense University of Madrid, July 2016-August 2016
   * [Mathematics Workshop](https://estudiosestadisticos.ucm.es/taller-matematico-para-alumnos-de-nuevo-ingreso-en-el-grado-de-estadistica-aplicada) 
 
-Projects
+Projects (supplement)
 ======
 * An Inventory Model Application with Periodic Review for the Manufacture of Distribution Transformers
   * Using R markdown to perform the estimation of the parameters for each of the distributions and
